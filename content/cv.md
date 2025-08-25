@@ -1,8 +1,8 @@
 ---
-title: "Office Hours"
-date: 2024-05-08
+title: "CV"
+date: 2025-08-25
 hidemeta: true
-description: "Schedule and location for Professor Dr von Igelfeld's office hours."
+description: "Curriculum Vitae"
 ---
 
 --- 
