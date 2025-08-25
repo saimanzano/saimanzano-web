@@ -15,8 +15,8 @@ menu:
         - name: CV
           url: cv/
           weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Publications
+          url: publications/
           weight: 5 
         - name: Projects
           url: projects/
@@ -41,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["cv", "papers", "projects","courses"]
+    MainSections: ["cv", "publications", "projects","courses"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -59,8 +59,8 @@ params:
           buttons:
             - name: CV
               url: cv/
-            - name: Papers
-              url: papers/
+            - name: Publications
+              url: publications/
             - name: Projects
               url: projects/
             - name: Courses
