@@ -27,7 +27,7 @@ teria reveals intrinsic uncertainty in pangenome analyses. _Genome biology, 24(1
 ## Preprints
 
 
-* **Manzano-Morales, S., & Gabaldón, T.** (2025). Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication. [Preprint]  bioRxiv. [<i class="material-icons">link</i>] (https://www.biorxiv.org/content/10.1101/2024.10.04.616067v1)
+* **Manzano-Morales, S., & Gabaldón, T.** (2025). Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication. [Preprint]  bioRxiv. [<i class="material-icons">link</i>](https://www.biorxiv.org/content/10.1101/2024.10.04.616067v1)
 
 * **Bernabeu, M.✝, Manzano-Morales, S.✝, Marcet-Houben, M., & Gabaldón, T.** (2024). Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis. In Evolutionary Biology (No. biorxiv;2024.10.14.618062v2). bioRxiv. https://www.biorxiv.org/content/10.1101/2024.10.14.618062v2
 
