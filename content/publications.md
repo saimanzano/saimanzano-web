@@ -8,38 +8,55 @@ description: "Publications, posters and talks"
 
 ## Publications
 
-### 2025
+#### 2024
 
-**Manzano-Morales, S., & Gabaldón, T.** (2025). Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication. [Preprint]  bioRxiv. <i class="material-icons">link</i>  https://www.biorxiv.org/content/10.1101/2024.10.04.616067v1
+* **Langschied, F., Bordin, N., Cosentino, S., Fuentes-Palacios, D., Glover, N., Hiller, M., Hu, Y., Huerta-Cepas, J., Coelho, L. P., Iwasaki, W., Majidian, S., Manzano-Morales, S., Persson, E., Richards, T. A., Gabaldón, T., Sonnhammer, E., Thomas, P. D., Dessimoz, C., & Ebersberger, I.** (2024). Quest for Orthologs in the Era of Biodiversity Genomics. _Genome biology and evolution_, evae224. Advance online publication. https://doi.org/10.1093/gbe/evae224
 
-
-## 2024
-
-**Bernabeu, M.✝, Manzano-Morales, S.✝, & Gabaldón, T.** (2024). Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis. In Evolutionary Biology (No. biorxiv;2024.10.04.616067v1). bioRxiv. https://www.biorxiv.org/content/10.1101/2024.10.04.616067v1
-
-**Bernabeu, M.✝, Manzano-Morales, S.✝, Marcet-Houben, M., & Gabaldón, T.** (2024). Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis. In Evolutionary Biology (No. biorxiv;2024.10.14.618062v2). bioRxiv. https://www.biorxiv.org/content/10.1101/2024.10.14.618062v2
-
-**Langschied, F., Bordin, N., Cosentino, S., Fuentes-Palacios, D., Glover, N., Hiller, M., Hu, Y., Huerta-Cepas, J., Coelho, L. P., Iwasaki, W., Majidian, S., Manzano-Morales, S., Persson, E., Richards, T. A., Gabaldón, T., Sonnhammer, E., Thomas, P. D., Dessimoz, C., & Ebersberger, I.** (2024). Quest for Orthologs in the Era of Biodiversity Genomics. _Genome biology and evolution_, evae224. Advance online publication. https://doi.org/10.1093/gbe/evae224
-
-**de la Fuente, I.✝, Manzano-Morales, S.✝, Sanz, D., Prieto, A., & Barriuso, J.**(2024). Quorum sensing in bacteria: in silico pro-
+* **de la Fuente, I.✝, Manzano-Morales, S.✝, Sanz, D., Prieto, A., & Barriuso, J.**(2024). Quorum sensing in bacteria: in silico pro-
 tein analysis, ecophysiology, and reconstruction of their evolutionary history. _BMC genomics, 25(1), 441_. https://doi.org/10.1186/s1286
 024-10355-6
 
-**Bernabeu, M.✝, Manzano-Morales, S.✝, & Gabaldón, T.** (2024). On the impact of incomplete taxon sampling on the relative timing of gene transfer events. _PLoS biology, 22(3), e3002460._ https://doi.org/10.1371/journal.pbio.3002460
+* **Bernabeu, M.✝, Manzano-Morales, S.✝, & Gabaldón, T.** (2024). On the impact of incomplete taxon sampling on the relative timing of gene transfer events. _PLoS biology, 22(3), e3002460._ https://doi.org/10.1371/journal.pbio.3002460
 
-## 2023
+#### 2023
 
 **Manzano-Morales, S.✝, Liu, Y.✝, González-Bodí, S., Huerta-Cepas, J., & Iranzo, J.** (2023). Comparison of gene clustering cri-
 teria reveals intrinsic uncertainty in pangenome analyses. _Genome biology, 24(1), 250._ https://doi.org/10.1186/s13059-
 023-03089-3
 
-## 2022
-
-**Manzano-Morales S✝, Liu Y✝, Huerta-Cepas J, Iranzo J. 2022.** “Operational Gene Clusters and Intrinsic Uncertainty in Pangenome Analyses.” *BioRxiv* 2022.09.25.509376' [(pdf)](https://www.biorxiv.org/content/10.1101/2022.09.25.509376v1.full.pdf)
+## Preprints
 
 
-Posters and Talks
-======
+* **Manzano-Morales, S., & Gabaldón, T.** (2025). Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication. [Preprint]  bioRxiv. [<i class="material-icons">link</i>] (https://www.biorxiv.org/content/10.1101/2024.10.04.616067v1)
+
+* **Bernabeu, M.✝, Manzano-Morales, S.✝, Marcet-Houben, M., & Gabaldón, T.** (2024). Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis. In Evolutionary Biology (No. biorxiv;2024.10.14.618062v2). bioRxiv. https://www.biorxiv.org/content/10.1101/2024.10.14.618062v2
+
+* **Bernabeu, M.✝, Manzano-Morales, S.✝, & Gabaldón, T.** (2024). Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis. In Evolutionary Biology (No. biorxiv;2024.10.04.616067v1). bioRxiv. https://www.biorxiv.org/content/10.1101/2024.10.04.616067v1
+
+## Talks
+
+#### 2025
+
+#### 2024
+
+#### 2023
+
+#### 2022
+
+
+## Posters
+
+#### 2025
+
+#### 2024
+
+#### 2023
+
+#### 2022
+
+
+
+
 
 ## 2024 
 **Poster - 30 Sept - 5 October 2024: CGUE, Sant Feliu de Guixols (Spain)**
