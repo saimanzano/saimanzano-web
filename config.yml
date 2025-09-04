@@ -18,8 +18,8 @@ menu:
         - name: Publications
           url: publications/
           weight: 5 
-        - name: Projects
-          url: projects/
+        - name: Outreach
+          url: outreach/
           weight: 2
         - name: Courses
           url: courses/
