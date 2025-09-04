@@ -55,7 +55,7 @@ teria reveals intrinsic uncertainty in pangenome analyses. _Genome biology, 24(1
 
 * **Manzano-Morales, S.✝**,  & Gabaldón, T. Horizontal Gene Transfer in Asgard Archaea. _XXII Jornada de Biologia Evolutiva, 5th July 2023, (Barcelona, Spain)_ [<i class="material-icons">picture_as_pdf</i>](https://saimanzano.github.io/docs/talks/2024/JBE2023.pdf)
 
-* **Manzano-Morales, S.✝**,  & Gabaldón, T. Horizontal Gene Transfer in Asgard Archaea. __10th BSC Severo Ochoa Doctoral Symposium, 9-10 May 2024, (Barcelona, Spain)_ [<i class="material-icons">picture_as_pdf</i>](https://saimanzano.github.io/docs/talks/2024/DS2023.pdf)
+* **Manzano-Morales, S.✝**,  & Gabaldón, T. Horizontal Gene Transfer in Asgard Archaea. __10th BSC Severo Ochoa Doctoral Symposium, 9-10 May 2023, (Barcelona, Spain)_ [<i class="material-icons">picture_as_pdf</i>](https://saimanzano.github.io/docs/talks/2024/DS2023.pdf)
 
 ## Posters
 

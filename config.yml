@@ -21,6 +21,9 @@ menu:
         - name: Outreach
           url: outreach/
           weight: 2
+        - name: Projects
+          url: projects/
+          weight: 2
         - name: Courses
           url: courses/
           weight: 3
@@ -41,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["cv", "publications", "projects","courses"]
+    MainSections: ["cv", "publications", "outreach","courses"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -61,6 +64,8 @@ params:
               url: cv/
             - name: Publications
               url: publications/
+            - name: Outreach
+              url: outreach/
             - name: Projects
               url: projects/
             - name: Courses

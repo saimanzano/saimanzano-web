@@ -1,4 +1,4 @@
 ---
-title: "Courses"
-description: "Courses and teaching activities by Saioa Manzano-Morales."
+title: "Projects"
+description: "Pet projects"
 ---
