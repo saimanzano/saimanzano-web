@@ -68,7 +68,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: docs/cv/cv.pdf
         - name: Email
           url: mailto:saioa.manzano@bsc.es
         - name: Google Scholar

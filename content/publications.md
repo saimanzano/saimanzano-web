@@ -10,18 +10,18 @@ description: "Publications, posters and talks"
 
 #### 2024
 
-* Langschied, F., Bordin, N., Cosentino, S., Fuentes-Palacios, D., Glover, N., Hiller, M., Hu, Y., Huerta-Cepas, J., Coelho, L. P., Iwasaki, W., Majidian, S., **Manzano-Morales, S.**, Persson, E., Richards, T. A., Gabaldón, T., Sonnhammer, E., Thomas, P. D., Dessimoz, C., & Ebersberger, I. (2024). Quest for Orthologs in the Era of Biodiversity Genomics. _Genome biology and evolution_, evae224. [<i class="material-icons">link</i>](https://doi.org/10.1093/gbe/evae224)[<i class="material-icons">picture_as_pdf</i>](https://github.com/saimanzano/saimanzano.github.io/blob/112d3d1f3bb89218719305585ced2fe981c1c0f8/static/docs/papers/QFO2024.pdf)  
+* Langschied, F., Bordin, N., Cosentino, S., Fuentes-Palacios, D., Glover, N., Hiller, M., Hu, Y., Huerta-Cepas, J., Coelho, L. P., Iwasaki, W., Majidian, S., **Manzano-Morales, S.**, Persson, E., Richards, T. A., Gabaldón, T., Sonnhammer, E., Thomas, P. D., Dessimoz, C., & Ebersberger, I. (2024). Quest for Orthologs in the Era of Biodiversity Genomics. _Genome biology and evolution_, evae224. [<i class="material-icons">link</i>](https://doi.org/10.1093/gbe/evae224)   [<i class="material-icons">picture_as_pdf</i>](https://github.com/saimanzano/saimanzano.github.io/blob/112d3d1f3bb89218719305585ced2fe981c1c0f8/static/docs/papers/QFO2024.pdf)  
 
 * de la Fuente, I.✝, **Manzano-Morales, S.✝**, Sanz, D., Prieto, A., & Barriuso, J.**(2024). Quorum sensing in bacteria: in silico pro-
-tein analysis, ecophysiology, and reconstruction of their evolutionary history. _BMC genomics, 25(1), 441_. [<i class="material-icons">link</i>](https://doi.org/10.1186/s12864-024-10355-6)[<i class="material-icons">picture_as_pdf</i>](https://github.com/saimanzano/saimanzano.github.io/blob/112d3d1f3bb89218719305585ced2fe981c1c0f8/static/docs/papers/QS24.pdf)  
+tein analysis, ecophysiology, and reconstruction of their evolutionary history. _BMC genomics, 25(1), 441_. [<i class="material-icons">link</i>](https://doi.org/10.1186/s12864-024-10355-6)   [<i class="material-icons">picture_as_pdf</i>](https://github.com/saimanzano/saimanzano.github.io/blob/112d3d1f3bb89218719305585ced2fe981c1c0f8/static/docs/papers/QS24.pdf)  
 
-* Bernabeu, M.✝, **Manzano-Morales, S.✝**, & Gabaldón, T. (2024). On the impact of incomplete taxon sampling on the relative timing of gene transfer events. _PLoS biology, 22(3), e3002460._ . [<i class="material-icons">link</i>](https://doi.org/10.1371/journal.pbio.3002460)[<i class="material-icons">picture_as_pdf</i>](https://github.com/saimanzano/saimanzano.github.io/blob/112d3d1f3bb89218719305585ced2fe981c1c0f8/static/docs/papers/GHOST24.pdf)  
+* Bernabeu, M.✝, **Manzano-Morales, S.✝**, & Gabaldón, T. (2024). On the impact of incomplete taxon sampling on the relative timing of gene transfer events. _PLoS biology, 22(3), e3002460._ . [<i class="material-icons">link</i>](https://doi.org/10.1371/journal.pbio.3002460)   [<i class="material-icons">picture_as_pdf</i>](https://github.com/saimanzano/saimanzano.github.io/blob/112d3d1f3bb89218719305585ced2fe981c1c0f8/static/docs/papers/GHOST24.pdf)  
  
 
 #### 2023
 
 **Manzano-Morales, S.✝**, Liu, Y.✝, González-Bodí, S., Huerta-Cepas, J., & Iranzo, J. (2023). Comparison of gene clustering cri-
-teria reveals intrinsic uncertainty in pangenome analyses. _Genome biology, 24(1), 250._  [<i class="material-icons">link</i>](https://doi.org/10.1186/s13059-023-03089-3)[<i class="material-icons">picture_as_pdf</i>](https://github.com/saimanzano/saimanzano.github.io/blob/112d3d1f3bb89218719305585ced2fe981c1c0f8/static/docs/papers/Manzano-Morales2023.pdf)  
+teria reveals intrinsic uncertainty in pangenome analyses. _Genome biology, 24(1), 250._  [<i class="material-icons">link</i>](https://doi.org/10.1186/s13059-023-03089-3)   [<i class="material-icons">picture_as_pdf</i>](https://github.com/saimanzano/saimanzano.github.io/blob/112d3d1f3bb89218719305585ced2fe981c1c0f8/static/docs/papers/Manzano-Morales2023.pdf)  
 
 
 ## Preprints
