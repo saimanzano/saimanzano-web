@@ -5,7 +5,7 @@ aliases:
     - /courses/CAB2025/slides.pdf
 
 tags: ["Biomedicine","Outreach","Viral Evolution","Phylogeny"]
-author: "Moritz-Maria von Igelfeld"
+author: "Saioa Manzano-Morales"
 description: "This is an outreach course designed within the Crazy for Biomedicine programme at Institute for Research in Biomedicine Barcelona (IRB) and Fundació Catalunya-La Pedrera." 
 summary: "This is an outreach course designed within the Crazy for Biomedicine programme at Institute for Research in Biomedicine Barcelona (IRB) and Fundació Catalunya-La Pedrera. It is aimed at High School students in order for them to have hands-on experience in a research center" 
 cover:
