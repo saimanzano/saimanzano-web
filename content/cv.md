@@ -5,13 +5,15 @@ hidemeta: true
 description: "Curriculum Vitae"
 ---
 
-### Education
+## Education
 
-* B.S. in Biochemistry and Molecular Biology, Universidad del País Vasco (UPV-EHU), 2019
+* Ph.D in Genetics, Universitat de Barcelona (expected early 2027)
 * M.S. in Computational Biology, Universidad Politécnica de Madrid, 2021
-* Ph.D in Genetics, Universitat de Barcelona (expected)
+* B.S. in Biochemistry and Molecular Biology, Universidad del País Vasco (UPV-EHU), 2019
 
-### Work experience
+
+
+## Work experience
 
 * March 2022 - Present: Predoctoral Researcher
   * Comparative Genomics group, Barcelona Supercomputing Center (BSC-CNS)
@@ -29,37 +31,21 @@ description: "Curriculum Vitae"
   * Supervisors: Jaime Iranzo, Jaime Huerta-Cepas
 
 
-### Teaching
+## Teaching experience
+
+ * Second semester 2024: Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra. (Teaching Assistant)
+ * Second semester 2023: Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra. (Teaching Assistant)
+ * Second semester 2022: Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra. (Teaching Assistant)
+ * First semester 2022: Bioinformatics, BS Biology, Universitat Pompeu Fabra. (Teaching Assistant)
 
 
-#### 2024
-**Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra (UPF)** (Teaching Assistant)
+## Outreach activities 
 
-#### 2023 
-**Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra (UPF)** (Teaching Assistant)
-
-#### 2022 
-**Bioinformatics, BS Biology, Universitat Pompeu Fabra (UPF)** (Teaching Assistant)
-
-**Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra (UPF)** (Teaching Assistant)
+* January - June 2025: Crazy About Biomedicine - IRB/Fundació Catalunya La Pedrera (Barcelona, Spain)
+* April 2023: Crazy about HPC - BSC/Fundació Catalunya La Pedrera (Barcelona, Spain)
+* February 2022: Life Sciences Open Day - Barcelona Supercomputing Center (Barcelona, Spain)
+* 2022 - Present: Bioinfo4Women - Barcelona Supercomputing Center (Barcelona, Spain) 
+* September 2022: BSC Open House - Barcelona Supercomputing Center (Barcelona, Spain)
+* May 2022: Women's Health Awareness Week- Barcelona Supercomputing Center (Barcelona, Spain) 
 
 
-### Outreach
-
-**Crazy about HPC - Fundació Catalunya La Pedrera}** (Barcelona, Spain)
-Volunteer Teacher, April 2023
-
-**Bioinfo4Women - Barcelona Supercomputing Center** (Barcelona, Spain) 
-Member, 2022- Present
-
-**Women's Health Awareness Week- Barcelona Supercomputing Center** (Barcelona, Spain) 
-Volunteer, May 2022
-
-**9th BSC Doctoral Symposium- Barcelona Supercomputing Center**  (Barcelona, Spain)
-
-**BSC Open House - Barcelona Supercomputing Center** (Barcelona, Spain)
-Volunteer, September 2022
-
-**Life Sciences Open Day - Barcelona Supercomputing Center** (Barcelona, Spain
-Volunteer and Presenter, February 2022
-    
